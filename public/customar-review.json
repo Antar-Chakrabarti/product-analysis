@@ -1,0 +1,87 @@
+[
+  {
+    "id": "1",
+    "name": "Bruce lee",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRleY1-jXiRXRm-XXzvD6Aq8wCUW1nC86RhvLsbjlLAM2YPoZdwfaTdBVNxvr6IkWR8R1s&usqp=CAU",
+    "review":"well design and nice looking.",
+    "rateing":"4.5/5"
+
+  },
+  {
+    "id": "2",
+    "name": "Moana",
+    "img": "https://cdn.wallpapersafari.com/12/60/Gb9Qk2.jpg",
+    "review":"well design and nice looking.",
+    "rateing":"5/5"
+  },
+  {
+    "id": "3",
+    "name": "Rock",
+    "img": "https://compote.slate.com/images/fd268400-c348-4021-82bb-3d0a1962e257.jpg",
+    "review":"well design and nice looking.",
+    "rateing":"3.5/5"
+  },
+  {
+    "id": "4",
+    "name": "Keano reves",
+    "img": "https://c4.wallpaperflare.com/wallpaper/601/305/165/brad-pitt-actor-man-smile-celebrity-hollywood-wallpaper-preview.jpg",
+    "review":"well design and nice looking.",
+    "rateing":"5/5"
+  },
+  {
+    "id": "5",
+    "name": "Tom Cruse",
+    "img": "https://resize.indiatvnews.com/en/resize/newbucket/715_-/2017/03/meadow-walker-rsquo-s-photos-1-1489921648-1490188639.jpg",
+    "review":"well design and nice looking.",
+    "rateing":"4.5/5"
+  },
+  {
+    "id": "6",
+    "name": "Spider man",
+    "img": "https://wallpapercave.com/wp/wp2161121.jpg",
+    "review":"well design and nice looking.",
+    "rateing":"4/5"
+  },
+  {
+    "id": "7",
+    "name": "salena gomez",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw7PwSvY_1DIn-YeswsioyO_XHTpx8npX85A&usqp=CAU",
+    "review":"well design and nice looking.",
+    "rateing":"4/5"
+  },
+  {
+    "id": "8",
+    "name": "Robinson",
+    "img": "https://atozhairstyles.com/wp-content/uploads/2018/10/Idris-Elba-01.jpg",
+    "review":"well design and nice looking.",
+    "rateing":"5/5"
+  },
+  {
+    "id": "9",
+    "name": "alia",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSqvsYDoN2GrgWD-ASvBTDn13_hiN5AN-Bcw&usqp=CAU",
+    "review":"well design and nice looking.",
+    "rateing":"3/5"
+  },
+  {
+    "id": "10",
+    "name": "dharmes",
+    "img": "https://i.pinimg.com/originals/03/1d/e2/031de25b0f114f1e7a3db893461e12b7.jpg",
+    "review":"well design and nice looking.",
+    "rateing":"4/5"
+  },
+  {
+    "id": "11",
+    "name": "dipika",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQeEIT0QmcKEjKfi4YdV790jhdi-il_69PZg&usqp=CAU",
+    "review":"well design and nice looking.",
+    "rateing":"4/5"
+  },
+  {
+    "id": "12",
+    "name": "DeepStrike",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxoVCPcaWQgSgf8vTNnhqsFFA8JIVGlET7IT1J6BX3PVydENHUNBP71lOS1FNFTZfIH1A&usqp=CAU",
+    "review":"well design and nice looking.",
+    "rateing":"5/5"
+  }
+]

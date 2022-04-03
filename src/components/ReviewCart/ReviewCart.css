@@ -1,0 +1,14 @@
+.cart{
+    border: 2px solid gray;
+    width: 300px;
+    padding: 10px;
+    margin-top: 20px;
+}
+.name{
+    text-align: right;
+}
+.cart .img{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+}
