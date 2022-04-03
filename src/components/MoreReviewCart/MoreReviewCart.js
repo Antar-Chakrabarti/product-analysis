@@ -1,18 +1,17 @@
 import React from 'react';
-import './ReviewCart.css';
 
-const ReviewCart = ({ reviews }) => {
+const MoreReviewCart = ({rev}) => {
     const { name, img, review, rateing
-} = reviews;
+    } = rev;
     console.log(name)
     return (
         <div className='cart'>
             <p className='review'><small>{review}</small></p>
             <p className='name'>--{name}</p>
-            <p className='rateing'>Rateing: <small>{rateing}</small></p>
+            <p className='rateing'><small>Rateing:  {rateing}</small></p>
             <img className='img' src={img} alt="" />
         </div>
     );
 };
 
-export default ReviewCart;
+export default MoreReviewCart;

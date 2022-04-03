@@ -1,0 +1,14 @@
+.review-container{
+    max-width: 1100px;
+    margin: 0 auto;
+}
+.more-reviews{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+}
+@media screen and (max-width: 700px) {
+    .more-reviews{
+        grid-template-columns: 1fr;
+    }
+}

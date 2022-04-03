@@ -38,7 +38,18 @@
     grid-template-columns: repeat(3, 1fr);
     grid-gap: 20px;
 }
-
+.see-all-btn{
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+}
+.see-all-btn a{
+    text-decoration: none;
+    background-color: #1B98F5;
+    color: #fff;
+    padding: 5px 20px;
+    border-radius: 5px;
+}
 
 @media screen and (max-width: 700px) {
     .top-home-area{
