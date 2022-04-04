@@ -7,7 +7,7 @@
     grid-template-columns: repeat(3, 1fr);
     grid-gap: 20px;
 }
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 525px) {
     .more-reviews{
         grid-template-columns: 1fr;
     }

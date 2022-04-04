@@ -4,6 +4,8 @@
     background-color:#03203C ;
     display: flex;
     justify-content: center;
+    top: 0;
+    width: 100%;
 }
 .nav-links a{
     font-size: 25px;
@@ -15,4 +17,9 @@
 }
 .nav-links a:hover{
     color: #EF5354;
+}
+@media screen and (max-width: 525px) {
+    .nav-links{
+        display: block;
+    }
 }
