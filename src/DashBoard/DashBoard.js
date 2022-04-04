@@ -53,8 +53,8 @@ const DashBoard = () => {
             </div>
             <div className="chart-two">
                 <BarChart width={500} height={400} data={data}>
-                    <Bar type="monotone" dataKey="sell" stroke="#8884d8"></Bar>
-                    <Bar type="monotone" dataKey="investment" stroke="#82ca9d" />
+                    <Bar dataKey="sell" fill="#8884d8"></Bar>
+                    <Bar dataKey="investment" fill="#82ca9d" />
                     <YAxis />
                     <XAxis />
                     <Tooltip />
